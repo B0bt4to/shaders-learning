@@ -1,1 +1,1 @@
-Following various tutorials on shaders for my own personal learning. Using Unity 2022.3.20
+Following various tutorials on shaders for my own personal learning. Using Unity 2022.3.20 (mostly URP)
